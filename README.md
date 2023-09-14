@@ -1,2 +1,2 @@
 # CODSOFT
-This repo contains CODSOFT's internship task/projects.
+This repo contains CODSOFT's internship tasks/projects.
